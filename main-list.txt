@@ -4,9 +4,9 @@
 
 ; Date: 2024-08-12
 
-; URL: https://raw.githubusercontent.com/dvershinin/switchy-rules/main/russia.txt
+; URL: https://raw.githubusercontent.com/jacuboffsky/switchy-rule-lists/main/main-list.txt
 
-; https://github.com/dvershinin/switchy-rules
+; https://github.com/jacuboffsky/switchy-rule-lists/
 
 
 #BEGIN
