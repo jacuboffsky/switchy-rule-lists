@@ -1,8 +1,8 @@
-; Summary: Rule List for websites censored in Russia
+; Summary: Rule List for Switchy
 
-; Author: Danila Vershinin (https://github.com/dvershinin)
+; Author: Jacuboffsky (https://github.com/jacuboffsky)
 
-; Date: 2022-03-22
+; Date: 2024-08-12
 
 ; URL: https://raw.githubusercontent.com/dvershinin/switchy-rules/main/russia.txt
 
