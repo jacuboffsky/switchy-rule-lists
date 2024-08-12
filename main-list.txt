@@ -1,0 +1,61 @@
+; Summary: Rule List for websites censored in Russia
+
+; Author: Danila Vershinin (https://github.com/dvershinin)
+
+; Date: 2022-03-22
+
+; URL: https://raw.githubusercontent.com/dvershinin/switchy-rules/main/russia.txt
+
+; https://github.com/dvershinin/switchy-rules
+
+
+#BEGIN
+
+[Wildcard]
+
+; Sitelist
+*://*.thepiratebay.org/*
+*://*.rutracker.org/*
+*://*.rutor.is/*
+*://*.pornolab.net/*
+*://*.line.me/*
+*://*.twitter.com/*
+*://*.twimg.com/*
+*://*.t.co/*
+*://*.line.naver.jp/*
+*://*.bbc.com/*
+*://*.bbci.co.uk/*
+*://*.facebook.com/*
+*://*.fbcdn.net/*
+*://*.lostfilm/*
+*://*.grammarly.com/*
+*://*.youtube.com/*
+*://*.gstatic.com/*
+*://*.twimg.com/*
+*://*.instagram.com/*
+*://*.rutracker.cc/*
+*://*.spotify.com/*
+*://*.facebook.com/*
+*://*.tidal.com/*
+*://*.googlevideo.com/*
+*://*.tidal.com/*
+*://*.x.com/*
+*://*.rutracker.org/*
+
+
+[RegExp]
+
+; sitelist
+instagram
+linkedin
+mailfence
+payoneer
+protonmail
+tutanota
+hashvault
+torproject
+upwork
+circleci
+
+
+#END
